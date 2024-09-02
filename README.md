@@ -2,6 +2,7 @@
 
 <img src="/logo.png" alt="Artiville Logo" width="300" height="300">
 
+[Start Generating now!](https://discordapp.com/users/1279216400921137195)
 
 Artivelle is an open-source Discord image generation bot, which uses HuggingFace's Inference Serverless API to generate images without using too much memory or GPU power.
 Get started by installing the requirements using PIP, using the .surprise-me command requires having Ollama and dolphin-mistral installed.
